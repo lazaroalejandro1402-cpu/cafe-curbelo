@@ -81,7 +81,7 @@ export default function Home() {
               </a>
             </div>
 
-            <div className="mt-8 grid max-w-lg grid-cols-3 gap-3 text-center text-xs text-white/70">
+<div className="mt-8 grid w-full max-w-lg grid-cols-1 gap-3 text-center text-xs text-white/70 sm:grid-cols-3">
               <div className="rounded-xl border border-white/10 bg-white/5 px-3 py-4">
                 <p className="text-lg font-extrabold text-white">Aroma</p>
                 <p className="mt-1">Intenso</p>
